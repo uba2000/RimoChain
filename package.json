@@ -1,0 +1,16 @@
+{
+  "name": "test_blockchain_class",
+  "version": "1.0.0",
+  "description": "A test blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Blockchain",
+    "Blockchain_with_javascript"
+  ],
+  "author": "uba_noel",
+  "license": "ISC"
+}
